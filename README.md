@@ -1,7 +1,7 @@
 # Welcome to My Profile! 🚀
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Aamour&fontSize=80&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Code%20Artist&descAlignY=50&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12&height=200&section=header&text=Aamour&fontSize=80&animation=twinkling&desc=Full%20Stack%20Developer%20|%20Code%20Artist&descAlignY=50&descAlign=50" />
 </div>
 
 <div align="center">
@@ -41,7 +41,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=Tech%20Stack&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12&height=100&section=header&text=Tech%20Stack&fontSize=40&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -66,7 +66,7 @@
 ## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=Featured%20Projects&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12&height=100&section=header&text=Featured%20Projects&fontSize=40&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -81,7 +81,7 @@
 ## 🤝 Let's Connect!
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=Connect%20With%20Me&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12&height=100&section=header&text=Connect%20With%20Me&fontSize=40&animation=twinkling" />
 </div>
 
 <div align="center">
@@ -104,7 +104,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4,5,6,7,8,9,10,11,12&height=100&section=footer&text=Thanks%20For%20Visiting!&fontSize=40&animation=twinkling" />
 </div>
 
 <div align="center">
