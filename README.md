@@ -9,6 +9,10 @@
 </div>
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="200" />
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="200" />
@@ -105,4 +109,8 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=while(alive){code();sleep();}" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
