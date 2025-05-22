@@ -19,9 +19,11 @@
 </div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="100" />
   <img src="https://komarev.com/ghpvc/?username=Aamour11&label=Profile%20views&color=00FF00&style=flat" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/Aamour11?label=Followers&style=social&color=00FF00" alt="GitHub Followers" />
   <img src="https://img.shields.io/github/stars/Aamour11?label=Stars&style=social&color=00FF00" alt="GitHub Stars" />
+  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="100" />
 </div>
 
 ## 👨‍💻 About Me
@@ -45,7 +47,9 @@
 </div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="50" />
   <img src="https://skillicons.dev/icons?i=js,py,html,css,laravel,ci,react,git,vscode,docker,mysql,postman&theme=dark" />
+  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="50" />
 </div>
 
 ## 📊 GitHub Stats
@@ -85,6 +89,7 @@
 </div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="50" />
   <a href="https://github.com/Aamour11">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00" />
   </a>
@@ -97,6 +102,7 @@
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF00" />
   </a>
+  <img src="https://media.giphy.com/media/3o7btNa0RUYa5E7iiQ/giphy.gif" width="50" />
 </div>
 
 <div align="center">
