@@ -20,9 +20,20 @@ I'm Aamour, a passionate developer who loves creating innovative solutions throu
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Tech Stack" width="200">
 </div>
 
+#### Languages & Frameworks
+<div align="center">
+  <img src="https://media.giphy.com/media/ln7z2eWqhQfQpGZqQc/giphy.gif" alt="JavaScript" width="100">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="100">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML" width="100">
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS" width="100">
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Laravel" width="100">
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="CodeIgniter" width="100">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" alt="React" width="100">
+</div>
+
 - 💻 Languages: JavaScript, Python, HTML, CSS
 - 🛠️ Tools: Git, VS Code, Docker
-- 🌐 Frameworks: React, Node.js
+- 🌐 Frameworks: Laravel, CodeIgniter 4, React
 
 ### GitHub Stats
 <div align="center">
